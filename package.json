@@ -5,6 +5,7 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
+    "@babel/eslint-parser": "^7.23.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-scripts": "5.0.1"
@@ -13,6 +14,7 @@
     "@types/react": "18.2.38",
     "@types/react-dom": "18.0.9",
     "babel-eslint": "^10.1.0",
+    "eslint": "^8.56.0",
     "loader-utils": "3.2.1",
     "typescript": "4.4.2"
   },
