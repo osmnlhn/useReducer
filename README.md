@@ -1,4 +1,4 @@
-Failed to load parser 'babel-eslint' declared in '.eslintrc.json': Cannot find module 'babel-eslint' 
+Solution: Failed to load parser 'babel-eslint' declared in '.eslintrc.json': Cannot find module 'babel-eslint' 
 
 1)rm -rf node_modules /zsh
 
